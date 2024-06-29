@@ -1,5 +1,5 @@
 # ClassProject
-Group Project for CSCI S-71
+## Team Name: Best Team Forever
 
 ## Members
 |Member|Role|
